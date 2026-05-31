@@ -27,4 +27,4 @@ A web-based job listing portal developed using PHP and MySQL.
 5. Open the project in your browser.
 
 ## Author
-Dharan
+Dharani.k 
